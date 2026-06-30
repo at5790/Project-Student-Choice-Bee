@@ -7,15 +7,14 @@
 #include <iostream>
 
 /**
-* Author: Atiya Thounaojam
-* Assignment: Rise of the AI
-* Date due: 2026-06-20, 11:59pm
+* Author: [Atiya Thounaojam]
+* Assignment: [How to Bee a Queen]
+* Date due: [June 30, 2005], 2:00pm
 * I pledge that I have completed this assignment without
 * collaborating with anyone else, in conformance with the
 * NYU School of Engineering Policies and Procedures on
 * Academic Misconduct.
 **/
-
 // Global Constants
 constexpr int SCREEN_WIDTH     = 1400,
               SCREEN_HEIGHT    = 900,
