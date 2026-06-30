@@ -2,7 +2,7 @@
 #include <random>
 
 //for end game
-int totalEnemiesLevelC = 6; 
+int totalEnemiesLevelC = 9; 
 
 constexpr int SCREEN_WIDTH = 1400;
 constexpr int SCREEN_HEIGHT = 900; 
